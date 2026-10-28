@@ -1,0 +1,6 @@
+{
+  "name": "CajaUno - Plataforma de Caja Menor Somos Uno",
+  "description": "Plataforma digital integral para la administración, gestión, seguimiento y control de la caja menor de la Corporación Social Somos Uno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
